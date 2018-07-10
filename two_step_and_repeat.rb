@@ -1,8 +1,11 @@
 def first_steps
+  x == 0
   loop do
     puts "Step to the left."
     puts "Step to the right."
-    break
+    if x == 6
+      break
+    end
   end
   
   puts "Now jump up and down!"
