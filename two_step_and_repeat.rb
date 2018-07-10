@@ -5,7 +5,6 @@ def first_steps
     puts "Step to the left."
     puts "Step to the right."
     end
-  end
   
   puts "Now jump up and down!"
   # Write a loop that outputs "Right foot back", "Left foot back",
