@@ -1,10 +1,9 @@
 def first_steps
   x == 0
-  loop do
+  while x < 6
+    x += 1
     puts "Step to the left."
     puts "Step to the right."
-    if x == 6
-      break
     end
   end
   
