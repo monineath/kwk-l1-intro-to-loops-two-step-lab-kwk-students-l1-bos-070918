@@ -1,5 +1,5 @@
 
-  x == 0
+  x = 0
   while x < 6
   
     puts "Step to the left."
