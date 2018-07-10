@@ -1,14 +1,14 @@
-def first_steps
+
   x == 0
   while x < 6
-    x += 1
+  
     puts "Step to the left."
     puts "Step to the right."
+    x += 1
     end
   
   # Write a loop that outputs "Right foot back", "Left foot back",
   # "Right foot back", and "Stop", with sleep after each
-end
 
 def a_few_more_steps
   # Write a loop that outputs the first two sets of steps in the Two-Step
