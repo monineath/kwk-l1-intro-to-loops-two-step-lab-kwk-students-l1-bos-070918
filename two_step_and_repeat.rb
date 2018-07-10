@@ -6,7 +6,6 @@ def first_steps
     puts "Step to the right."
     end
   
-  puts "Now jump up and down!"
   # Write a loop that outputs "Right foot back", "Left foot back",
   # "Right foot back", and "Stop", with sleep after each
 end
